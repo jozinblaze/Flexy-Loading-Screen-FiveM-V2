@@ -27,5 +27,5 @@ files {
     'font/Orbitron-Regular.woff2',
     'font/Orbitron-SemiBold',
     'font/Orbitron-SemiBold.woff2',
-    'music/Zaitohro - Low (feat. Narlsbarkley).m4a'
+    'music/music.m4a'
 }
